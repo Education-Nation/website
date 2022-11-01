@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Education-Nation/website/webInfo/static/css/main.ffe34ec7.css",
-    "main.js": "/Education-Nation/website/webInfo/static/js/main.520b71a5.js",
-    "index.html": "/Education-Nation/website/webInfo/index.html",
-    "main.ffe34ec7.css.map": "/Education-Nation/website/webInfo/static/css/main.ffe34ec7.css.map",
-    "main.520b71a5.js.map": "/Education-Nation/website/webInfo/static/js/main.520b71a5.js.map"
+    "main.css": "/Education-Nation/edunationweb/static/css/main.ffe34ec7.css",
+    "main.js": "/Education-Nation/edunationweb/static/js/main.cb199eb4.js",
+    "index.html": "/Education-Nation/edunationweb/index.html",
+    "main.ffe34ec7.css.map": "/Education-Nation/edunationweb/static/css/main.ffe34ec7.css.map",
+    "main.cb199eb4.js.map": "/Education-Nation/edunationweb/static/js/main.cb199eb4.js.map"
   },
   "entrypoints": [
     "static/css/main.ffe34ec7.css",
-    "static/js/main.520b71a5.js"
+    "static/js/main.cb199eb4.js"
   ]
 }
