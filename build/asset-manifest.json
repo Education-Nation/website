@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Education-Nation/website/webInfo/static/css/main.ffe34ec7.css",
+    "main.js": "/Education-Nation/website/webInfo/static/js/main.520b71a5.js",
+    "index.html": "/Education-Nation/website/webInfo/index.html",
+    "main.ffe34ec7.css.map": "/Education-Nation/website/webInfo/static/css/main.ffe34ec7.css.map",
+    "main.520b71a5.js.map": "/Education-Nation/website/webInfo/static/js/main.520b71a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe34ec7.css",
+    "static/js/main.520b71a5.js"
+  ]
+}
