@@ -4,7 +4,15 @@ import './home.css';
 export default function Home() {
     return (
         <div className="home">
-            <p>gnaru is a very cool name</p>
+            <div className="heading">
+
+            </div>
+
+            <div className="mission">
+
+            </div>
+
+            <div className="why"></div>
         </div>
     );
 }
